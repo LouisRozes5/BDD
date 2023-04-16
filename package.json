@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.1.0",
+    "chai": "^4.3.7"
+  },
+  "scripts": {
+    "test": "cucumber-js features"
+  }
+}
